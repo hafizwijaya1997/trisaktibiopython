@@ -88,7 +88,7 @@ def main():
         
         st.subheader("Sejarah Awal Coronavirus")
         "Coronavirus pertama kali ditemukan pada pertengahan tahun 1960 dengan jenis HCoV-229E. Virus ini bermutasi selama 56 tahun sampai pada tahun 2020 tercatat ada tujuh dari banyaknya jenis spesies virus corona yang menginfeksi manusia muali dari Alpha Coronavirus, Beta Coronavirus, SARS, dan juga MERS. Evolusi dari jenis spesies virus corona dapat terlihat pada gambar di bawah ini."
-        image = Image.open('mutasi.png')
+        image = Image.open('mutasi.PNG')
         st.image(image,width=800)
         
         st.subheader("Corona Virus Disease 2019")
